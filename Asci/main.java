@@ -23,6 +23,7 @@ class Main {
             }
            System.out.println("");
         }    
+        sp.close();
 
     }
 }
