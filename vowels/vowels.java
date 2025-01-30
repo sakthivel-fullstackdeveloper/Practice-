@@ -18,5 +18,6 @@ public static void main(String[] args){
             }
                 
     }
+    st.close();
     } 
 }
