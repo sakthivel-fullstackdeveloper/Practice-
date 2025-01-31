@@ -1,6 +1,7 @@
 import java.util.*;
 public class aa {
-  public static void main(String[] args) {
+  @SuppressWarnings("unused")
+public static void main(String[] args) {
     Scanner st = new Scanner(System.in);
     System.out.println("Please enter a:");
     int a = st.nextInt();
