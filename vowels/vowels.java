@@ -6,8 +6,9 @@ public static void main(String[] args){
     System.out.println("enter the string");
     String inp = st.nextLine();
     char[] s= inp.toCharArray();
-    
-    for(char i:s)
+    int a=Integer.parseInt("123");
+    System.out.println(a);
+    for(char i:s)//iegt
     {
         switch (i) {
             case 'a':{System.out.println(i); break;}
